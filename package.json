@@ -10,12 +10,13 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "nuxt": "^3.7.0"
+    "nuxt": "^3.7.1"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "dayjs": "^1.11.9",
     "highlight.js": "^11.8.0",
     "microcms-js-sdk": "^2.5.0"
-  }
+  },
+  "packageManager": "npm@8.6.0"
 }
