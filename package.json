@@ -18,5 +18,5 @@
     "highlight.js": "^11.8.0",
     "microcms-js-sdk": "^2.5.0"
   },
-  "packageManager": "npm@8.6.0"
+  "packageManager": "npm@8.17.1"
 }
